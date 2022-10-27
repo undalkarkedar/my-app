@@ -1,0 +1,18 @@
+.image--logo{
+    float: left;
+    color:#61DAFB;
+    margin: 0;
+    padding: 0
+    
+}
+
+.nav--title{
+    float: right;
+    color:#DEEBF8
+}
+
+nav{
+    background-color: #21222A;
+    height:90px;
+    padding: 30px 25px;
+}
